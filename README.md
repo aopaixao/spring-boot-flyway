@@ -1,8 +1,9 @@
-# Descrição - API Rest com Spring HATEOAS
-API Rest simples para demonstração da biblioteca Spring HATEOAS
+# Descrição - API Rest com Spring Flyway
+API Rest simples para demonstração do versionamento de banco de dados com Flyway
 
 # Funcionalidades Implementadas
 
+* Versionamento do banco de dados utilizando Flyway
 * Recursos HATEOAS para os métodos CRUD
 * Endpoints CRUD
 * Documentação com Springdoc
